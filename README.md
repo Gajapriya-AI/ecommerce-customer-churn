@@ -4,7 +4,9 @@ An end-to-end Machine Learning project that predicts whether an e-commerce custo
 
 ## 🚀 Live Dashboard
 
-Dashboard link will be added after Streamlit deployment.
+
+
+👉 [Open Live Dashboard](https://ecommerce-customer-churn-us437zzk9ektxqxf432a3z.streamlit.app/)
 
 ## 📌 Project Overview
 
